@@ -39,7 +39,7 @@ if (isset($_SESSION["user_id"])) {
     </div>
     <div class="content-container">
         <div class="content">
-            
+            <p>hello</p>
         </div>
     </div>
 </body>
