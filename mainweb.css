@@ -46,3 +46,30 @@ nav ul li a {
 .header {
   font-size: 9px;
 }
+.grid-container {
+  margin-top: 65rem;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+  padding-top: 20px;
+  width: 85%;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 25px;
+}
+.cards {
+  color: rgb(47, 47, 48);
+  border-radius: 10px;
+  transition: 0.5s;
+}
+.cards .card-image {
+  border-radius: 10px;
+  height: 225px;
+}
+.img-one {
+  border-radius: 20px;
+  background-image: url("./Resources/medge.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
