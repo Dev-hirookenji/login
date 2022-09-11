@@ -44,13 +44,19 @@ if (isset($_SESSION["user_id"])) {
     </div>
     <div class="grid-container">
         <div class="cards">
-            <div class="card-image img-one"></div>
+            <div class="card-image img-one">
+                
+            </div>
         </div>
         <div class="cards">
-            <div class="card-image img-one"></div>
+            <div class="card-image img-one">
+                
+            </div>
         </div>
         <div class="cards">
-            <div class="card-image img-one"></div>
+            <div class="card-image img-one">
+                
+            </div>
         </div>
     </div>
 </body>

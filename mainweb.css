@@ -18,7 +18,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-image: url(./Resources/3726585.jpg);
+  background-image: url(./Resources/hands.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -68,7 +68,6 @@ nav ul li a {
 }
 .img-one {
   border-radius: 20px;
-  background-image: url("./Resources/medge.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
