@@ -42,22 +42,5 @@ if (isset($_SESSION["user_id"])) {
             <h1>Games that I recommend everyone to play</h1>
         </div>
     </div>
-    <div class="grid-container">
-        <div class="cards">
-            <div class="card-image img-one">
-                
-            </div>
-        </div>
-        <div class="cards">
-            <div class="card-image img-one">
-                
-            </div>
-        </div>
-        <div class="cards">
-            <div class="card-image img-one">
-                
-            </div>
-        </div>
-    </div>
 </body>
 </html>
