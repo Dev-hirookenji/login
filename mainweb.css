@@ -24,8 +24,7 @@ body {
 }
 .top-nav {
   display: flex;
-  align-items: center;
-  justify-content: center;
+  float: left;
   width: 100%;
   padding: 7px 13px;
 }
