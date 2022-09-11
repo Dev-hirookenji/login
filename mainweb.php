@@ -32,6 +32,10 @@ if (isset($_SESSION["user_id"])) {
         <div class="top-nav">
             <nav>
                 <ul>
+                    <li><a href="mainweb.php">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Logout</a></li>
+                    <li><a href="#">Logout</a></li>
                     <li><a href="signup.php">Logout</a></li>
                 </ul>
             </nav>  
