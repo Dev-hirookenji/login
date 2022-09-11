@@ -55,11 +55,40 @@ a:hover {
 .start-container {
   display: flex;
   position: absolute;
-  top: 90%;
+  top: 10%;
   transform: translateY(-40%);
   text-align: center;
   color: var(--white-color);
 }
+.header h1 {
+  margin-top: 450px;
+  font-size: 50px;
+  font-family: var(--secondary-font);
+}
+.header p {
+  font-size: 20px;
+  font-family: var(--secondary-font);
+  font-weight: 500;
+}
+.me-container {
+  margin-top: 30px;
+}
+.me-container p {
+  margin-top: 5px;
+}
 .header {
-  font-size: 9px;
+  text-shadow: 5px 5px 10px black;
+}
+.games-container {
+  position: absolute;
+  display: flex;
+  width: 100%;
+  height: 60vh;
+  margin-top: 40rem;
+  justify-content: center;
+}
+img {
+  margin-top: 20rem;
+  width: 140px;
+  padding: 5px;
 }

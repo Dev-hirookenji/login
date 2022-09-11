@@ -43,8 +43,15 @@ if (isset($_SESSION["user_id"])) {
     </header>  
     <div class="start-container">
         <div class="header">
-            <h1>Games that I recommend everyone to play</h1>
+                <h1>Hi! I'm Mark.</h1>
+            <div class="me-container">
+             <p class="me">I'm an aspiring Web Developer</p>
+             <p class="me">I play games during my free time when I'm done studying.</p>
+            </div>        
         </div>
+    </div>
+    <div class="games-container">
+        
     </div>
 </body>
 </html>
