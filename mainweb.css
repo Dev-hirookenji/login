@@ -24,14 +24,18 @@ body {
 }
 .top-nav {
   display: flex;
-  float: left;
+  justify-content: flex-end;
   width: 100%;
   padding: 7px 13px;
 }
 nav ul li {
+  display: flex;
+  justify-content: flex-end;
   display: inline-block;
 }
 nav ul li a {
+  display: flex;
+  justify-content: flex-end;
   color: var(--white-color);
 }
 .start-container {
